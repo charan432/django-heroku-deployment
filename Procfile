@@ -1,1 +1,1 @@
-web: gunicorn django-heroku-deployment.wsgi --log-file -
+web: gunicorn foodfun.wsgi --log-file -
