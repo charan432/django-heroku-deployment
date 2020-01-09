@@ -33,9 +33,8 @@ SECRET_KEY = 'vep+o-f5*ce9n*)@lwc91$7=-bxcxu8e3oydadf*2-hw2@2$uc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-# ALLOWED_HOSTS = ['Sampleapp-env.uxshxddbkp.us-east-2.elasticbeanstalk.com',
-#                  'django-env.atzm2p5rmm.us-west-2.elasticbeanstalk.com']
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['demo-resaurantapp.herokuapp.com']
+# ALLOWED_HOSTS = []
 
 # Application definition
 
